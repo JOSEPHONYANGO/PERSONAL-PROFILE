@@ -38,18 +38,19 @@ nav img{
     position:relative;
 }
 .nav-links ul li a{
-    color: whitesmoke;
+    color:blue;
     text-decoration: none;
     font-size: 20px;
 }
 .text-box{
     width:90%;
-    color:white;
+    color:black;
     position:absolute;
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
     text-align: center;
+    margin-right:70px ;
  }
  .text-box h1{
 font-size: 62px;
@@ -95,7 +96,7 @@ font-size: 62px;
  }
  .image{
      display:flex;
-     justify-content: flex-end;
+     justify-content: flex-start;
      margin-top: -250px;
      
  }
@@ -150,10 +151,11 @@ font-size: 62px;
     }
 }
 .AboutMe{
-    width:80%;
+    width:100%;
     margin:auto;
     text-align: center;
     padding-top: 50px;
+    background-color: burlywood;
 }
 .talanta1{
     flex-basis: 48%;
