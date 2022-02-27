@@ -93,6 +93,11 @@ font-size: 62px;
          z-index:2;
      }
  }
+ .image{
+     display:flex;
+     justify-content: flex-end;
+     margin-top: -250px;
+ }
 .courses{
     width:80%;
     margin:auto;
