@@ -10,7 +10,7 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .header{
-    min-height: 100vh;
+    min-height: 70vh;
     width:100%;
     background-image:url("../images/image.jpg");
     background-position: center;
