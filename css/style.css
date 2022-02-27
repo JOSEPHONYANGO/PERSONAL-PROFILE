@@ -155,5 +155,13 @@ font-size: 62px;
     text-align: center;
     padding-top: 50px;
 }
+.talanta1{
+    flex-basis: 48%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+    
+}
 
 
