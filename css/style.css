@@ -133,6 +133,11 @@ font-size: 62px;
         flex-direction: column;
     }
 }
-
+.AboutMe{
+    width:80%;
+    margin:auto;
+    text-align: center;
+    padding-top: 50px;
+}
 
 
